@@ -139,7 +139,8 @@ nav .navlinks li a{
     box-shadow: 0 10px 10px -8px rgb(0 0 0/78%);
 
 }
-.btn .active{
+.btn.active{
     border-color: #007ced;
     
 }
+/*responsive design and displaying nav bar for small screens*/
