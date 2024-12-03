@@ -123,3 +123,17 @@ nav .navlinks li a{
 .hero-text p{
     color: #e5e5e5;
 }
+.btn-group{
+    margin: 45px 0;
+    
+}
+.btn-group btn{
+    border-color: #d5d5d5;
+    color: #fff;
+    background-color: #333;
+    padding: 12px 25px;
+    margin: 5px 0;
+    margin-right: 7px;
+    border-radius:  30px;
+    border: 2px solid #e5e5e5;
+}
