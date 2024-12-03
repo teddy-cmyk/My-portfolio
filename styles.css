@@ -180,5 +180,16 @@ nav .navlinks{
    transition: 0.5s;
    padding: 25px 0px;
 }
+nav .navlinks li{
+    display: block;
+}
+nav .navlinks li a{
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
+}
+nav .navlinks .open{
+    right: 0;
+}
 }  
     
