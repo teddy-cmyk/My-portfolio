@@ -202,3 +202,14 @@ nav .navlinks li a{
         right:0;
     }
 }
+@media(max-width:768px)
+{
+    .container{
+         flex-direction: column;
+         padding-top: 2rem;
+    }
+    .hero-text{
+        padding: 40px 0px;
+    }
+    
+}
